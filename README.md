@@ -1,5 +1,3 @@
-# PSC-GPU-Scripts
-
 # PSC GPU Usage
 
 This document serves as a reference for the basic usage of the PSC GPU allocation. If there is something that is missed please refer to the bridges 2 user guide here: https://www.psc.edu/resources/bridges-2/user-guide-2/.
