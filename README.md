@@ -96,5 +96,3 @@ Also when using multiple GPUs you will need to design your models and code to sp
 ### Other tips
 
 If you are using VS Code (which I recommend if you are unfamiliar with vim/emacs) you can connect your workspace to bridges following these instructions: https://code.visualstudio.com/docs/remote/ssh. You can also connect your Jupyter instance to the PSC by setting the address to `localhost:8889`. 
-
- you 
