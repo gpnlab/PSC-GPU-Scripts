@@ -41,7 +41,7 @@ Slurm is the main job manager on the supercomputer. We won't go too in depth in 
 We will mainly start with using the Interactive mode to get familiar with the resource. To use this use the command
 
 ```
-interact -p GPU-shared--gres=gpu:v100-16:1
+interact -p GPU-shared --gres=gpu:v100-16:1 -A med200001p
 ```
 
 to start an interactive instance on the GPU-shared partition requesting 1 GPU from the v100-16 GPU node. When in doubt use the shared partitions as they are charged at a much lower rate that the standard GPU and CPU partitions (please refer to the user guide for more details). 
